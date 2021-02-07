@@ -10,8 +10,8 @@ Tensorflow-gpu 1.14.0<br>
 
 Download Code and Unzip
 =======================
-unzip paper23code.zip<br>
-cd paper23code<br>
+unzip DynamicScale.zip<br>
+cd DynamicScale<br>
 
 Download ModelNet40 Dataset
 ===========================
