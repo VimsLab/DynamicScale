@@ -44,7 +44,7 @@ python evaluate.py --num_votes=12  <br>
 Evaluation
 ==========
 Change the log location in evaluate.py script from log to pretrained.<br>
-Run below command to test through 100 evaluations and gives best results of 92.0% (takes 4 hours)<br>
+Run below command to test through 100 evaluations and gives best results of 92.1% (takes 4 hours)<br>
 python evaluate.py --num_votes=12  <br>
 
 Note: This code has been heaviy borrowed from https://github.com/charlesq34/pointnet2 and from our previous work https://github.com/VimsLab/EllipsoidQuery<br>
