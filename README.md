@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dynamic-local-geometry-capture-in-3d/3d-point-cloud-classification-on-scanobjectnn)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-scanobjectnn?p=dynamic-local-geometry-capture-in-3d)
+
 This code submission is to reproduce 3D Shape Classification results of ReducedPointNet++ oriented and scaled ellipsoid querying. <br>
 
 Software requirements
